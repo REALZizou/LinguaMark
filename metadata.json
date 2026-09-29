@@ -1,0 +1,6 @@
+{
+  "name": "LinguaMark 语测通 - 外语考试与学情分析系统",
+  "description": "专为外语线下纸笔考试设计的组卷、OMR答题卡智能识别、在线切块批改、错题集与学情分析一体化系统规范与原型工作台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
